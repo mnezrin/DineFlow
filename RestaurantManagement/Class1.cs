@@ -4,5 +4,7 @@ namespace RestaurantManagement
 {
     public class Class1
     {
-        Console.Write("Hiii");
+        //Console.Write("Hiii");
+         
     }
+}
